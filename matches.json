@@ -4,13 +4,13 @@
     "local": {
       "nome": "Maracanã",
       "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
-     },
+    },
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    }
-     "visitante": {
+    },
+    "visitante": {
       "nome": "Argentina",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
@@ -19,15 +19,15 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Estádio Centenário",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
-     },
+      "nome": "Olympic Stadium Hernando Siles",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+    },
     "mandante": {
-      "nome": "Uruguay",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
-    }
-     "visitante": {
+      "nome": "Bolívia",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+    },
+    "visitante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
@@ -38,14 +38,14 @@
     "local": {
       "nome": "Maracanã",
       "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
-     },
+    },
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    }
-     "visitante": {
-      "nome": "Colômbia",
+    },
+    "visitante": {
+      "nome": "Colombia",
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
